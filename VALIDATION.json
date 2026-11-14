@@ -1,0 +1,29 @@
+{
+  "access_number": "B34982",
+  "date": "2026-11-14",
+  "execution_environment": "available kernel, not clean venv",
+  "notebooks": {
+    "project_1_wholesale_customers.ipynb": {
+      "code_cells": 11,
+      "embedded_png_figures": 9,
+      "error_outputs": 0,
+      "unexecuted_code_cells": 0
+    },
+    "project_2_credit_card_fraud.ipynb": {
+      "code_cells": 12,
+      "embedded_png_figures": 7,
+      "error_outputs": 0,
+      "unexecuted_code_cells": 0
+    }
+  },
+  "datasets": {
+    "creditcard.csv": {
+      "bytes": 150828752,
+      "sha256": "76274b691b16a6c49d3f159c883398e03ccd6d1ee12d9d8ee38f4b4b98551a89"
+    },
+    "wholesale-customers.csv": {
+      "bytes": 14582,
+      "sha256": "8f79c9a3e0bc677502d545f986bc42a5cd4dc73ddb6c33044b1a2cc14ed0aaba"
+    }
+  }
+}
